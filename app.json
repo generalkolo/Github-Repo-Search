@@ -1,0 +1,17 @@
+{
+  "name": "githubRepoSearch",
+  "displayName": "githubRepoSearch",
+  "expo": {
+    "name": "githubRepoSearch",
+    "slug": "githubRepoSearch",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
